@@ -1,0 +1,5 @@
+{
+  "name": "GuardianOS Dashboard",
+  "description": "A mission-critical orchestration dashboard and hardware simulator for GuardianOS, an ethical, self-healing operating system designed to assist children with breathing exercises through an offline-first, data-privacy approach.",
+  "requestFramePermissions": []
+}
